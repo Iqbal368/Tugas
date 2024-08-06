@@ -1,0 +1,15 @@
+form {
+  font-weight: 700;
+  font-size: 1.2em;
+  line-height: 1.6;
+  color: #000000;
+}
+
+body {
+  background-image: url("https://img.freepik.com/free-photo/3d-render-palm-tree-island-sunset_1048-5931.jpg?ga=GA1.1.557755933.1716073736&semt=ais_user");
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100vw; 
+  height: 100vh; 
+}
