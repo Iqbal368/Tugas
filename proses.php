@@ -14,6 +14,6 @@ fclose($fp);
 
 echo "<head><title>Reservasi Hotel</title></head>";
 echo "Terima Kasih Atas Partisipasi Anda <br>";
-echo "<a href='tampilan.html'> Reservasi </a><br>";
+echo "<a href='index.html'> Reservasi </a><br>";
 echo "<a href='lihat.php'> Lihat Ketersediaan Kamar </a><br>";
 ?>
