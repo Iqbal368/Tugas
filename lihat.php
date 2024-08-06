@@ -25,7 +25,7 @@ while ($isi = fgets($fp, 80)) {
 }
 
 echo "</table>";
-echo "<a href='tampilan.html'>Klik Disini</a> untuk Reservasi ";
+echo "<a href='index.html'>Klik Disini</a> untuk Reservasi ";
 
 fclose($fp);
 ?>
